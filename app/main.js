@@ -20,3 +20,11 @@ function returnEvenNumbers(numbers) {
     }
     return evenNumbs
 }
+
+function multiplyNumbers(numbers) {
+    let theNumb = 1
+    for(let i = 0; i >= numbers.length; i++) {
+        numbers[i] * theNumb
+    }
+    return theNumb
+}
