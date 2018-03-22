@@ -9,10 +9,10 @@ Work with a partner to edit a project and manage your changes with git.
 4. Once you've completed one task, slack your partner to start theirs. Do this 5 times.
 5. When you complete the process with working code, you should both submit the link to the repo.
 
-## Worflow
+## Worflow (centralized)
 1. Seth created repo, added Greg as collaborator, and copied over app folder to new repository.
 2. Seth added initial commit and pushed to repository.
-3. Greg cloned repository, and added/completed task. 
+3. Greg cloned repository, and added/completed task.
 4. Seth pulls repo down, adds/completes task, then adds, commits, and pushes to repo.
 5. Greg pulls repo down, adds/completes task, then adds, commits, and pushes to repo.
 6. Steps 4-5 repeated until drill is complete.
